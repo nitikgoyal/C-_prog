@@ -22,3 +22,4 @@ void swap1(int *x,int *y)
     *y=z;
     cout<<"Value of a & b in function : "<<*x<<" "<<*y<<endl;
 }
+//code ends here
